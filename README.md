@@ -22,3 +22,5 @@ Check the requirements listed out in requirements.txt
 - Ensure your webcam is connected and positioned correctly.
 - Use index and Middle Finger and Pinch together to select buttons. Position your hand so that the relevant finger gestures align with the virtual buttons displayed on the screen.
 - To quit the application, press 'q' on your keyboard.
+
+Utilizing advanced hand gesture recognition technology, this innovative calculator allows you to perform calculations effortlessly using intuitive hand movements captured by your webcam. Say goodbye to traditional button presses and immerse yourself in a hands-free calculation experience.
