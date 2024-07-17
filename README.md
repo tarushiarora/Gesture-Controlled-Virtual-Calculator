@@ -21,4 +21,4 @@ Check the requirements listed out in requirements.txt
 - Run the main script: python logic.py
 - Ensure your webcam is connected and positioned correctly.
 - Use index and Middle Finger and Pinch together to select buttons. Position your hand so that the relevant finger gestures align with the virtual buttons displayed on the screen.
-- To quit the application, press q on your keyboard.
+- To quit the application, press 'q' on your keyboard.
